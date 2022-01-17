@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Shap Library](https://shap.readthedocs.io/en/latest/).
 
 ### Pré-requisitos
-Para rodar o código o usuário deve ter instalado em seu ambiente o interpretador de [Python 3](https://www.python.org/downloads/), a plataforma [Anaconda](https://www.anaconda.com/) e instalar por meio do comando pip install a biblioteca [Shap Library](https://shap.readthedocs.io/en/latest/). A plataforma Anaconda já dispões da instalação de diversas bibliotecas para Ciência de Dados, utilizadas no desenvolvimento do modelo. Além disso a biblioteca Shap pode ser instalada no ambiente Jupyter Notebook pelo comando *!pip install* shap ou pelo Prompt de Comando do próprio computador pelo comando *pip install shap*.
+Para rodar o código o usuário deve ter instalado em seu ambiente o interpretador de [Python 3](https://www.python.org/downloads/), a plataforma [Anaconda](https://www.anaconda.com/) e instalar por meio do comando pip install a biblioteca [Shap Library](https://shap.readthedocs.io/en/latest/). A plataforma Anaconda já dispões da instalação de diversas bibliotecas para Ciência de Dados, utilizadas no desenvolvimento do modelo. Além disso a biblioteca Shap pode ser instalada no ambiente Jupyter Notebook pelo comando *!pip install shap* ou pelo Prompt de Comando do próprio computador pelo comando *pip install shap*.
 
 ### Como Rodar o Código
 O código está dividido em 4 etapas, sendo elas:
